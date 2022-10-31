@@ -7,7 +7,6 @@ cancion5 = {"titulo": "Alright", "cantante": "Darius Rcker", "Letra": "Alright a
 
 listaCanciones = [cancion1, cancion2, cancion3, cancion4, cancion5]
 
-
 def textoMenu():
     print("Para Agregar una cancion, 1")
     print("Para Buscar una cancion, 2")
